@@ -1,4 +1,10 @@
+
+
 # Plantilla Avance Preliminar del Proyecto
+
+<div style="margin-bottom: 20;"></div>
+  <img alt="frame" src="https://github.com/user-attachments/assets/7381c068-38dd-40dd-81c1-52aeef45acc7" alt="Descripción" width="120"> 
+<br>
 
 ## 1. Información del Proyecto
 - **Nombre del Proyecto:**  
